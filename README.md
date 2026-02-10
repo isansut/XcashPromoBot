@@ -1,0 +1,2 @@
+# XcashPromoBot
+auto taps
